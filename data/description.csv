@@ -1,8 +1,8 @@
 label,sublabel,description,styles,bgcolor
-燃やせないごみ,,,,#733b96
-燃やせるごみ,,,,#ea3b13
-空きびん・缶,,,,#2dc7aa
-ペットボトル,,,,#13c4e1
-古紙・古着,,,,#bbe400
-プラスチック類,,,,#77ae1f
-有害ごみ,,,,#685ecf
+燃やせないごみ,,,img/moyasanai02.svg,#733b96
+燃やせるごみ,,,img/moyasu02.svg,#ea3b13
+空きびん・缶,,,img/bin02.svg,#2dc7aa
+ペットボトル,,,img/shigen02.svg,#13c4e1
+古紙・古着,,,img/shigen02.svg,#bbe400
+プラスチック類,,,img/shigen02.svg,#77ae1f
+有害ごみ,,,img/moyasanai02.svg,#685ecf
